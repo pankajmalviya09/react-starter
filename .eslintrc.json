@@ -14,9 +14,9 @@
     "no-console": 0,
     "import/prefer-default-export": 0,
     "no-nested-ternary": 0,
-    "no-confusing-arrow": ["error", {"allowParens": true}],
+    "no-confusing-arrow": 0,
     "no-mixed-operators": ["error", {"allowSamePrecedence": true}],
-    "prettier/prettier":["error", {"trailingComma": "all", "singleQuote": true, "printWidth": 130, "semi": true }]
+    "prettier/prettier":["error", {"trailingComma": "all", "singleQuote": true, "printWidth": 140, "semi": true }]
   },
   "env": {
     "es6": true,
